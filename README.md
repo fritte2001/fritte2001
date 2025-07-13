@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fritz</h1>
 
-- 👀 I’m interested in Control Systems
+- 👀 I’m interested in Data-Driven Control, System Identification and Optimization
 
 - 🚪 My personal [website](https://fritte2001.github.io)
 
